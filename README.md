@@ -32,5 +32,12 @@ Follow [PEP 8] with some changes
 Use unittest to verify the classes and the methods.
 Use covergae to verify code coverage.
 
+## To Run Test
+
+Type:
+```
+python BikeTester.py
+```
+ to evaluate tests.
 
 
