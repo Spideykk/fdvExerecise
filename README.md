@@ -20,7 +20,7 @@ Follow [PEP 8] with some changes
 #### Naming
 
 - Variables, functions, methods, packages, modules
-    - `lower_case_with_underscores`
+    - `lowerCamelCase`
 - Classes and Exceptions
     - `CapWords`
 
